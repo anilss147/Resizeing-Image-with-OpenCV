@@ -1,3 +1,6 @@
+"""
+@author: A-Bosh
+"""
 import cv2
 import os
 import glob
